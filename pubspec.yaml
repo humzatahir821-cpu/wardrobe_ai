@@ -16,7 +16,7 @@ dependencies:
   shimmer: ^2.0.0
   image_picker: ^0.8.7
   tflite_flutter: ^0.10.4
-  tflite_flutter_helper: ^0.3.3
+  tflite_flutter_helper: ^0.4.1
 
 dev_dependencies:
   flutter_test:
