@@ -15,8 +15,7 @@ dependencies:
   cached_network_image: ^3.2.3
   shimmer: ^2.0.0
   image_picker: ^0.8.7
-  tflite_flutter: any
-  tflite_flutter_helper: any
+  flutter_tensorflow_lite: ^1.0.1
 
 dev_dependencies:
   flutter_test:
